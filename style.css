@@ -9,8 +9,8 @@
     border: none;
     outline: none;
     scroll-behavior: smooth;
-    font-family: 'Poppins', sans-serif;
-
+    font-family: 'Space Grotesk', sans-serif;
+   
 
 }
 
@@ -69,7 +69,7 @@ body {
 .navbar a {
     position: relative;
     font-size: 1.7rem;
-    color: var(--text-color);
+    color: var(--white-color);
     font-weight: 500;
     margin-right: 2.7rem;
 }
@@ -100,7 +100,7 @@ body {
 
 #darkMode-icon {
     font-size: 2.4rem;
-    color: var(--text-color);
+    color: var(--white-color);
     cursor: pointer;
 }
 
